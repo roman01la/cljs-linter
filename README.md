@@ -1,3 +1,5 @@
+ClojureScript linter POC based on cljs.analyzer
+
 ```clojure
 (future
   (linter.core/with-linter
